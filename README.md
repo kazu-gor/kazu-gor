@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazu-gor&theme=chartreuse_dark)
